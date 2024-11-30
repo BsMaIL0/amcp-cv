@@ -19,4 +19,4 @@
 ---
 ---
 
-![**Моя фотография**](https://imgur.com/a/iBgJ9pB)
+![**Моя фотография**](https://i.imgur.com/bVlyXu4.jpeg)
